@@ -48,7 +48,7 @@
 
 24. 贪心：求最少点命中多个闭区间。（21s）
 
-25. 给出3SAT问题和Independent Set的问题的判定形式，并证明独立集问题是NP-completeness问题(已知3SAT问题是NP-complete问题，Independent Set问题是NP问题，证明3SAT $\le_p$ Independent Set即可) (20a, 21s）
+25. 给出3SAT问题和Independent Set的问题的判定形式，并证明独立集问题是NP-completeness问题（已知3SAT问题是NP-complete问题，Independent Set问题是NP问题，证明3SAT $\le_p$ Independent Set即可）。（20a, 21s）
 
 26. （21a）  
 （1）什么是polynomial-time reduction?  
