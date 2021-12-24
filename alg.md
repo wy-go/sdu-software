@@ -4,7 +4,7 @@
 
 2. 三种时间复杂度比较异同。（21s）
 
-3. $T(n)=T(\frac{3}{4}n)+nlogn$ 求T(n)的最大上界。（21s, 21a）
+3. $T(n)=T(\frac{3}{4}n)+nlogn$，求T(n)的最大上界。（21s, 21a）
 
 4. 证明白色路径定理。（20s）
 
@@ -50,6 +50,6 @@
 
 25. 给出3SAT问题和Independent Set的问题的判定形式，并证明独立集问题是NP-completeness问题(已知3SAT问题是NP-complete问题，Independent Set问题是NP问题，证明3SAT $\le_p$ Independent Set即可) (20a, 21s）
 
-26. （21a）
-（1）什么是polynomial-time reduction?
+26. （21a）  
+（1）什么是polynomial-time reduction?  
 （2）证明Vertex Cover$\le_p$Set Cover
