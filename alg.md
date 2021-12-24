@@ -38,18 +38,18 @@
 
 19. 给了一个图，计算出最大流和最小割，给出详细过程。（20s）
 
-20. 图G=(V, E, s, t, c)，val(f)最大流，$cap(A,B), C=(u, v)\inE, u\inA, v\inB$从f中删除边C，求此时的流量是多少。（20a）
+20. 图G=(V, E, s, t, c)，val(f)最大流，$cap(A,B), C=(u,v)\in E, u\in A, v\in B$从f中删除边C，求此时的流量是多少。（20a）
 
 21. 动态规划：n堆硬币，求合并硬币堆最小耗费，耗费值是两个硬币堆数量之和。简述算法思想，给出伪代码，分析空间复杂度和时间复杂度。（21s, 21a）
 
-22. 描述动态规划的基本含义，v_1, v_2, … ,v_n共n个题目，每个题目的耗费时间为 m_1, m_2, … ,m_n。利用动态规划基本思想求解，表示分数不低于v时耗费的最短时间，写出Bellman方程，给出伪代码，并分析时间复杂度。（20a）
+22. 描述动态规划的基本含义，$v_1, v_2, \ldots,v_n$共n个题目，每个题目的耗费时间为$m_1, m_2, \ldots,m_n$。利用动态规划基本思想求解，表示分数不低于v时耗费的最短时间，写出Bellman方程，给出伪代码，并分析时间复杂度。（20a）
 
 23. x为正整数，初始值为1，可以对x加1或乘2，动态规划求得到n的最少步数。1）Bellman方程2）算法伪代码3）时间复杂度 （21a）
 
 24. 贪心：求最少点命中多个闭区间。（21s）
 
-25. 给出3SAT问题和Independent Set的问题的判定形式，并证明独立集问题是NP-completeness问题(已知3SAT问题是NP-complete问题，Independent Set问题是NP问题，证明3SAT<=p Independent Set即可) (20a, 21s）
+25. 给出3SAT问题和Independent Set的问题的判定形式，并证明独立集问题是NP-completeness问题(已知3SAT问题是NP-complete问题，Independent Set问题是NP问题，证明3SAT $\le_p$ Independent Set即可) (20a, 21s）
 
 26. （21a）
 （1）什么是polynomial-time reduction?
-（2）证明$Vertex Cover\le_pSet Cover$
+（2）证明Vertex Cover$\le_p$Set Cover
