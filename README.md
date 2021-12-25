@@ -3,4 +3,4 @@
 欢迎开issues讨论题目
 
 - [操作系统](https://github.com/wy-go/sdu-software/blob/main/os.md)
-- [算法](https://github.com/wy-go/sdu-software/blob/main/alg.md)
+- [算法设计与分析（19春-21秋）](https://github.com/wy-go/sdu-software/blob/main/alg.md)
