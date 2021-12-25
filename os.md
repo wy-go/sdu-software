@@ -341,8 +341,8 @@ int main() {
 </div>
 
 > 3000=1024\*2+952，页号为2<4，状态位为Invalid，发生缺页中断，由于2个帧已满，采用FIFO算法和局部置换策略，且页号0先装入内存，置换出，状态位置为Invalid，将页号2对应的帧号修改为130，状态位置为Valid。最后，访问物理地址为130\*1024+952=134072的字节。  
-置换后的页表为：  
-<img width="773" alt="Screen Shot 2021-12-25 at 8 55 20 PM" src="https://user-images.githubusercontent.com/56920038/147385308-863203d5-8765-4fb9-ad85-e986a47513f8.png">
+> 置换后的页表为：  
+> <img width="773" alt="Screen Shot 2021-12-25 at 8 55 20 PM" src="https://user-images.githubusercontent.com/56920038/147385308-863203d5-8765-4fb9-ad85-e986a47513f8.png">
 
 27. 在一个请求分页系统中，用FIFO，LRU写出下面的置换过程 4,3,2,1,4,3,5,4,3,2,1,5，当分配给该作业的物理块数M分别为 3、4时分别计算缺页次数和缺页率，并说明LRU优于FIFO的原因。（14）
 > M=3：  
